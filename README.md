@@ -2,7 +2,7 @@
 <h1>🚖 Smart Fare Prediction: Enhancing Taxi Pricing with Data-Driven Intelligence</h1>
 
 <h2>Description</h2>
-This project performs a comparative analysis of Graph Attention Networks (GAT), XGBoost, and TimesNet to predict NYC taxi fares under noisy and clean data conditions. Using deep learning, tree-based models, and sequence models, we analyze how different architectures handle real-world complexities like noise, uncertainty, and temporal-spatial features.
+This project performs a comparative analysis of Graph Attention Networks (GAT), XGBoost, and TimesNet to predict NYC taxi fares under noisy and clean data conditions. Handled 55 million dataset. Using deep learning, tree-based models, and sequence models, we analyze how different architectures handle real-world complexities like noise, uncertainty, and temporal-spatial features.
 
 <h3>Project Objectives</h3>
 - Predict taxi fares using clean, noisy, and denoised data.
@@ -71,7 +71,6 @@ Uncertainty Estimation: Prediction intervals
 OOD Testing: Generalization on noisy unseen data
 
 <h8> 📁 Dataset Links </h8>
-Links:
 
 https://drive.google.com/file/d/1SdWurixKsWcQ-_F_IHQZhJWRzUk1odUh/view?usp=drive_link - INITIAL TRAIN DATA 
 https://drive.google.com/file/d/1cfV4udBKpWj3vRNbI3Lyv9VjIsmb2zDR/view?usp=drive_link - NOISY TRAIN

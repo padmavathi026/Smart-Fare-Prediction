@@ -1,4 +1,4 @@
-# Smart-Fare-Prediction-Enhancing-Taxi-Pricing-with-Data-Driven-Intelligence---Comparative-Analysis
+
 <h1>🚖 Smart Fare Prediction: Enhancing Taxi Pricing with Data-Driven Intelligence</h1>
 
 <h2>Description</h2>
